@@ -1,0 +1,27 @@
+project title:
+	User Login Authentication
+
+Type : 
+	Full Stack Web Application.
+
+Technologies used : 
+HTML
+CSS
+Java Script
+Python
+Flask
+MYSQL
+
+
+Project overview :
+	This project is a simple user authentication system developed using HTML, CSS, JavaScript, Flask, and MySQL. 
+	The main purpose of the project is to allow users to create an account, log in securely, view their dashboard details, and log out from the application. 
+	The frontend was designed using HTML and CSS, while JavaScript was used to send and receive data between the user interface and the Flask backend using the Fetch API. 
+	Flask was used to create backend routes for registration, login, dashboard access, and logout functionality. 
+	MySQL was connected as the database to store user information such as username, email, password, role, and account creation date. 	The project also includes session handling to keep users logged in after successful authentication. 
+	During development, several issues such as routing errors, ID mismatches, CSS loading problems, and login validation errors were identified and fixed. 
+	Finally, the project became a fully working authentication system that demonstrates frontend-backend integration and database connectivity in a simple and practical way.
+
+
+Thanks,
+Rajesh.D
