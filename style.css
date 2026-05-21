@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    background: #2a7bf5;
+}
+
+.container {
+    width: 425px;
+    margin: 100px auto;
+    padding: 20px;
+    background: rgb(186, 140, 140);
+    border-radius: 10px;
+    text-align: center;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    width: 95%;
+    padding: 10px;
+    background: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: darkblue;
+}
+
+.error {
+    color: red;
+}
